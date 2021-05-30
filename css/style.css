@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(194, 200, 212);
+}
+h1{
+    color: white;
+    text-align: center;
+}
+/*Estilo para todas las clases*/
+p {
+    font-family: verdana;
+    font-size: 15px;
+    text-align: justify;
+}
+img{
+    border:black 1px;
+    border-style: dashed;
+    text-align: center;
+}
+.img-rounded {
+    border-radius: 50px;
+    border-style: double;
+}
+.color-text{
+    color:blue;
+} 
+.background-color-special{
+    background-color: rgb(94, 76, 76);
+} 
+.btn{
+    color: blue;
+}
