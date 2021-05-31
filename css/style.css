@@ -11,6 +11,9 @@ p {
     font-size: 15px;
     text-align: justify;
 }
+iframe{
+    text-align: center;
+}
 img{
     border:black 1px;
     border-style: dashed;
